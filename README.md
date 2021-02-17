@@ -13,4 +13,4 @@ docker-compose up -d
 
 ## LICENSE
 
-Same as the MIT license, except that you are not required to 
+See [license](LICENSE.txt)
