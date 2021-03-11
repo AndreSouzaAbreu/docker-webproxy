@@ -1,6 +1,6 @@
 # DOCKER WEBPROXY
 
-This is a fork of [docker-compose-letsencrypt-nginx-proxy](https://github.com/evertramos/.docker-compose-letsencrypt-nginx-proxy-companion).
+This is a fork of [docker-compose-letsencrypt-nginx-proxy](https://github.com/evertramos/docker-compose-letsencrypt-nginx-proxy-companion). Basically, this is a proxy container that redirect incoming requests to the desirable container. It makes very easy to deploy multiple containers on the same machine without having conflicts of usage of the host's ports.
 
 ## Set up
 
